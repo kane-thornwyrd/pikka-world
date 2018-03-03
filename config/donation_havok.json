@@ -1,0 +1,401 @@
+{
+  "access_token": "Your Access Token Here!",
+  "generate_book": true,
+  "delay": 10,
+  "mc_name": "Your Minecraft name here.",
+  "streamer_name": "Your streamer name here.",
+  "replace_unbreakable_blocks": false,
+  "non_replaceable_blocks": [
+    "minecraft:chest"
+  ],
+  "rewards": [
+    {
+      "allow_target_via_note": true,
+      "target_all_players": false,
+      "delay": 0,
+      "name": "A Default Reward",
+      "blocks": [
+        {
+          "delay": 0,
+          "x_offset": 1,
+          "y_offset": 0,
+          "z_offset": 0,
+          "block_state": {
+            "id": "minecraft:chest",
+            "facing": "north"
+          },
+          "tile_entity": {
+            "Items": [
+              {
+                "Slot": 0,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 1,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 2,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 3,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 4,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 5,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 6,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 7,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 8,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 9,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 10,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 11,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 12,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 13,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 14,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 15,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 16,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 17,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 18,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 19,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 20,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 21,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 22,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 23,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 24,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 25,
+                "id": "minecraft:apple",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              },
+              {
+                "Slot": 26,
+                "id": "minecraft:stone",
+                "Count": 1,
+                "tag": {
+                  "display": {
+                    "Name": "Oh Hai ;D"
+                  }
+                },
+                "Damage": 0
+              }
+            ]
+          }
+        }
+      ],
+      "commands": [
+        {
+          "delay": 0,
+          "command": "/say Quack \\_o\u003c"
+        }
+      ],
+      "entities": [
+        {
+          "delay": 0,
+          "x_offset": 0.0,
+          "y_offset": 0.0,
+          "z_offset": 0.0,
+          "nbt": {
+            "CustomName": "Duck",
+            "id": "minecraft:chicken",
+            "CustomNameVisible": 1
+          }
+        }
+      ],
+      "items": [
+        {
+          "delay": 0,
+          "item_stack": {
+            "id": "minecraft:wheat_seeds",
+            "Count": 1,
+            "tag": {
+              "display": {
+                "Name": "Duck Feed"
+              }
+            },
+            "Damage": 0
+          }
+        }
+      ],
+      "messages": [
+        {
+          "delay": 0,
+          "broadcast": true,
+          "message": {
+            "text": "Hey look, a default message :D"
+          }
+        }
+      ],
+      "particles": [
+        {
+          "id": "hugeexplosion",
+          "delay": 0,
+          "x_offset": 0.0,
+          "y_offset": 0.0,
+          "z_offset": 0.0,
+          "x_velocity": 0.0,
+          "y_velocity": 0.0,
+          "z_velocity": 0.0
+        }
+      ],
+      "sounds": [
+        {
+          "delay": 0,
+          "x_offset": 0.0,
+          "y_offset": 0.0,
+          "z_offset": 0.0,
+          "pitch": 1.0,
+          "volume": 1.0,
+          "id": "minecraft:entity.generic.explode"
+        }
+      ],
+      "target_players": [],
+      "trigger_tiers": [],
+      "min_amount": 1.0
+    }
+  ]
+}
